@@ -5,7 +5,6 @@
     "node": "14.15.2"
   },
   "private": true,
-  "proxy": "https://infinite-dusk-39113.herokuapp.com/api/v1/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
