@@ -2,7 +2,7 @@
   "name": "burner-wallet",
   "version": "0.1.0",
   "engines": {
-    "node": "16.x"
+    "node": "14.15.2"
   },
   "private": true,
   "proxy": "https://infinite-dusk-39113.herokuapp.com/api/v1/",
